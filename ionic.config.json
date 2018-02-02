@@ -1,0 +1,8 @@
+{
+  "name": "icrypto",
+  "app_id": "500e6afa",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
